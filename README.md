@@ -25,7 +25,7 @@ A repository of 3 projects in statistics - William ELKIESS
 
 - Project 3: Time Series Analysis / Price Forecasting Project 
 
-  Data: Reatil Sales Forecasting (https://www.kaggle.com/datasets/tevecsystems/retail-sales-forecasting/data)
+  Data: Reatil Sales Forecasting https://www.kaggle.com/datasets/tevecsystems/retail-sales-forecasting/data
 
   The objective is to predict future sales of this retailer. We focus on building 2 models to forecast the sales of the last 30 days of this dataset 
 
